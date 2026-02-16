@@ -1,4 +1,5 @@
 ﻿using Aplication.Interfaces.IQuery;
+using Domain.Entityes;
 using Infraestructure.Perssistence;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -21,6 +22,11 @@ namespace Infraestructure.Query
         public async Task<bool> CategoryExists(int categoryId)
         {
             return await _context.Categories.AnyAsync(c => c.Id == categoryId);
+        }
+
+        public async Task<List<Category>> GetAllCategorys()
+        {
+            return await _context.Categories.ToListAsync();
         }
     }
 }

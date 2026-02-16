@@ -13,5 +13,8 @@ namespace Aplication.Interfaces.IMappers
     {
         Dish createDish(DishRequest dish);
         DishResponse createDishResponse(Dish dish);
+        CategoryResponse createCategoryResponse(Category category);
+        GenericResponse createGenericResponse(Status status);
+        GenericResponse createGenericResponse(DeliveryType deliveryType);
     }
 }

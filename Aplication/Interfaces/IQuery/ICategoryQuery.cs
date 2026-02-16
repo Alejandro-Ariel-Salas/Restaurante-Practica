@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Domain.Entityes;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,5 +10,7 @@ namespace Aplication.Interfaces.IQuery
     public interface ICategoryQuery
     {
         Task<bool> CategoryExists(int categoryId);
+
+        Task<List<Category>> GetAllCategorys();
     }
 }

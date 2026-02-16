@@ -14,6 +14,17 @@ namespace Aplication.Mappers
 {
     public class DishMapper : IDishMapper
     {
+        public CategoryResponse createCategoryResponse(Category category)
+        {
+            return new CategoryResponse
+            {
+                Id = category.Id,
+                Name = category.Name,
+                Description = category.Description,
+                Order = category.Order,
+            };
+        }
+
         public Dish createDish(DishRequest dish)
         {
             return new Dish
@@ -46,6 +57,24 @@ namespace Aplication.Mappers
                 IsActive = dish.Available,
                 CreatedAt = dish.CreateDate,
                 UpdatedAt = dish.UpdateDate
+            };
+        }
+
+        public GenericResponse createGenericResponse(Status status)
+        {
+            return new GenericResponse
+            {
+                Id = status.Id,
+                Name = status.Name
+            };
+        }
+
+        public GenericResponse createGenericResponse(DeliveryType deliveryType)
+        {
+            return new GenericResponse
+            {
+                Id = deliveryType.Id,
+                Name = deliveryType.Name
             };
         }
     }

@@ -14,5 +14,12 @@ namespace Aplication.Interfaces.IService
         Task<DishResponse> CreateDish(DishRequest dishRequest);
         Task<List<DishResponse>> GetDishesFilther(string? name, int? category, bool onlyActive, SortByPrice sortByPrice);
         Task<DishResponse> UpdateDish(Guid id, DishUpdateRequest dishUpdateRequest);
+
+        // 2do TP
+        Task<DishResponse> GetDishById(Guid id);
+        Task<DishResponse> DeleteDish(Guid id);
+        Task<List<CategoryResponse>> GetCategories();
+        Task<List<GenericResponse>> GetAllStatus();
+        Task<List<GenericResponse>> GetAllDeliveryTypes();
     }
 }

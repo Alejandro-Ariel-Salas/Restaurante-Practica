@@ -10,7 +10,6 @@ namespace Aplication.DTOs.Responses
     {
         public long OrderNumber { get; set; }
         public decimal TotalAmount { get; set; }
-        public GenericResponse Status { get; set; } = null!;
         public DateTime CreatedAt { get; set; }
     }
 

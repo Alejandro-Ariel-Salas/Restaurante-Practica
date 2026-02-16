@@ -12,8 +12,8 @@ namespace Aplication.DTOs.Responses
         public int Quantity { get; set; }
         public string? Notes { get; set; }
 
-        public GenericResponse Status { get; set; } = null!;
-        public DishShortResponse Dish { get; set; } = null!;
+        public GenericResponse Status { get; set; }
+        public DishShortResponse Dish { get; set; }
     }
 
 }

@@ -1,26 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\servicePrueba\\PracticaRestaurante\\",
+  "WorkspaceRootPath": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\2026\\Practica Verano\\servicePrueba\\PracticaRestaurante\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87D2EE73-3D34-417E-A2A6-BEF181D4B002}|Aplication\\Aplication.csproj|c:\\users\\aleja\\desktop\\carpetas\\trabajos practicos(unaj)\\proyecto software\\serviceprueba\\practicarestaurante\\aplication\\dtos\\responses\\dishresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87D2EE73-3D34-417E-A2A6-BEF181D4B002}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\responses\\dishresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0A8ECBE-2885-40AB-BD54-BCAC54F94B46}|PracticaRestaurante\\PracticaRestaurante.csproj|c:\\users\\aleja\\desktop\\carpetas\\trabajos practicos(unaj)\\proyecto software\\2026\\practica verano\\serviceprueba\\practicarestaurante\\practicarestaurante\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A8ECBE-2885-40AB-BD54-BCAC54F94B46}|PracticaRestaurante\\PracticaRestaurante.csproj|solutionrelative:practicarestaurante\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87D2EE73-3D34-417E-A2A6-BEF181D4B002}|Aplication\\Aplication.csproj|c:\\users\\aleja\\desktop\\carpetas\\trabajos practicos(unaj)\\proyecto software\\serviceprueba\\practicarestaurante\\aplication\\usecases\\dishservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87D2EE73-3D34-417E-A2A6-BEF181D4B002}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usecases\\dishservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87D2EE73-3D34-417E-A2A6-BEF181D4B002}|Aplication\\Aplication.csproj|c:\\users\\aleja\\desktop\\carpetas\\trabajos practicos(unaj)\\proyecto software\\2026\\practica verano\\serviceprueba\\practicarestaurante\\aplication\\usecases\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D2EE73-3D34-417E-A2A6-BEF181D4B002}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usecases\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0A8ECBE-2885-40AB-BD54-BCAC54F94B46}|PracticaRestaurante\\PracticaRestaurante.csproj|c:\\users\\aleja\\desktop\\carpetas\\trabajos practicos(unaj)\\proyecto software\\serviceprueba\\practicarestaurante\\practicarestaurante\\controllers\\dishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0A8ECBE-2885-40AB-BD54-BCAC54F94B46}|PracticaRestaurante\\PracticaRestaurante.csproj|c:\\users\\aleja\\desktop\\carpetas\\trabajos practicos(unaj)\\proyecto software\\2026\\practica verano\\serviceprueba\\practicarestaurante\\practicarestaurante\\controllers\\dishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0A8ECBE-2885-40AB-BD54-BCAC54F94B46}|PracticaRestaurante\\PracticaRestaurante.csproj|solutionrelative:practicarestaurante\\controllers\\dishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB1534CD-A9DB-4E04-8182-2BB28DF04CB0}|Infraestructure\\Infraestructure.csproj|c:\\users\\aleja\\desktop\\carpetas\\trabajos practicos(unaj)\\proyecto software\\serviceprueba\\practicarestaurante\\infraestructure\\perssistence\\configurations\\dishconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB1534CD-A9DB-4E04-8182-2BB28DF04CB0}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\perssistence\\configurations\\dishconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87D2EE73-3D34-417E-A2A6-BEF181D4B002}|Aplication\\Aplication.csproj|c:\\users\\aleja\\desktop\\carpetas\\trabajos practicos(unaj)\\proyecto software\\2026\\practica verano\\serviceprueba\\practicarestaurante\\aplication\\mappers\\ordermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D2EE73-3D34-417E-A2A6-BEF181D4B002}|Aplication\\Aplication.csproj|solutionrelative:aplication\\mappers\\ordermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0A8ECBE-2885-40AB-BD54-BCAC54F94B46}|PracticaRestaurante\\PracticaRestaurante.csproj|c:\\users\\aleja\\desktop\\carpetas\\trabajos practicos(unaj)\\proyecto software\\serviceprueba\\practicarestaurante\\practicarestaurante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0A8ECBE-2885-40AB-BD54-BCAC54F94B46}|PracticaRestaurante\\PracticaRestaurante.csproj|c:\\users\\aleja\\desktop\\carpetas\\trabajos practicos(unaj)\\proyecto software\\2026\\practica verano\\serviceprueba\\practicarestaurante\\practicarestaurante\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0A8ECBE-2885-40AB-BD54-BCAC54F94B46}|PracticaRestaurante\\PracticaRestaurante.csproj|solutionrelative:practicarestaurante\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D2EE73-3D34-417E-A2A6-BEF181D4B002}|Aplication\\Aplication.csproj|c:\\users\\aleja\\desktop\\carpetas\\trabajos practicos(unaj)\\proyecto software\\2026\\practica verano\\serviceprueba\\practicarestaurante\\aplication\\usecases\\dishservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D2EE73-3D34-417E-A2A6-BEF181D4B002}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usecases\\dishservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1534CD-A9DB-4E04-8182-2BB28DF04CB0}|Infraestructure\\Infraestructure.csproj|c:\\users\\aleja\\desktop\\carpetas\\trabajos practicos(unaj)\\proyecto software\\2026\\practica verano\\serviceprueba\\practicarestaurante\\infraestructure\\perssistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1534CD-A9DB-4E04-8182-2BB28DF04CB0}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\perssistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A8ECBE-2885-40AB-BD54-BCAC54F94B46}|PracticaRestaurante\\PracticaRestaurante.csproj|c:\\users\\aleja\\desktop\\carpetas\\trabajos practicos(unaj)\\proyecto software\\2026\\practica verano\\serviceprueba\\practicarestaurante\\practicarestaurante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0A8ECBE-2885-40AB-BD54-BCAC54F94B46}|PracticaRestaurante\\PracticaRestaurante.csproj|solutionrelative:practicarestaurante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A8ECBE-2885-40AB-BD54-BCAC54F94B46}|PracticaRestaurante\\PracticaRestaurante.csproj|c:\\users\\aleja\\desktop\\carpetas\\trabajos practicos(unaj)\\proyecto software\\2026\\practica verano\\serviceprueba\\practicarestaurante\\practicarestaurante\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0A8ECBE-2885-40AB-BD54-BCAC54F94B46}|PracticaRestaurante\\PracticaRestaurante.csproj|solutionrelative:practicarestaurante\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1534CD-A9DB-4E04-8182-2BB28DF04CB0}|Infraestructure\\Infraestructure.csproj|c:\\users\\aleja\\desktop\\carpetas\\trabajos practicos(unaj)\\proyecto software\\2026\\practica verano\\serviceprueba\\practicarestaurante\\infraestructure\\perssistence\\configurations\\orderitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1534CD-A9DB-4E04-8182-2BB28DF04CB0}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\perssistence\\configurations\\orderitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1534CD-A9DB-4E04-8182-2BB28DF04CB0}|Infraestructure\\Infraestructure.csproj|c:\\users\\aleja\\desktop\\carpetas\\trabajos practicos(unaj)\\proyecto software\\2026\\practica verano\\serviceprueba\\practicarestaurante\\infraestructure\\perssistence\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1534CD-A9DB-4E04-8182-2BB28DF04CB0}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\perssistence\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1534CD-A9DB-4E04-8182-2BB28DF04CB0}|Infraestructure\\Infraestructure.csproj|c:\\users\\aleja\\desktop\\carpetas\\trabajos practicos(unaj)\\proyecto software\\2026\\practica verano\\serviceprueba\\practicarestaurante\\infraestructure\\perssistence\\configurations\\deliverytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1534CD-A9DB-4E04-8182-2BB28DF04CB0}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\perssistence\\configurations\\deliverytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1534CD-A9DB-4E04-8182-2BB28DF04CB0}|Infraestructure\\Infraestructure.csproj|c:\\users\\aleja\\desktop\\carpetas\\trabajos practicos(unaj)\\proyecto software\\2026\\practica verano\\serviceprueba\\practicarestaurante\\infraestructure\\perssistence\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1534CD-A9DB-4E04-8182-2BB28DF04CB0}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\perssistence\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,64 +110,160 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DishResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\servicePrueba\\PracticaRestaurante\\Aplication\\DTOs\\Responses\\DishResponse.cs",
-              "RelativeDocumentMoniker": "Aplication\\DTOs\\Responses\\DishResponse.cs",
-              "ToolTip": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\servicePrueba\\PracticaRestaurante\\Aplication\\DTOs\\Responses\\DishResponse.cs",
-              "RelativeToolTip": "Aplication\\DTOs\\Responses\\DishResponse.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAswBkAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "OrderMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\2026\\Practica Verano\\servicePrueba\\PracticaRestaurante\\Aplication\\Mappers\\OrderMapper.cs",
+              "RelativeDocumentMoniker": "Aplication\\Mappers\\OrderMapper.cs",
+              "ToolTip": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\2026\\Practica Verano\\servicePrueba\\PracticaRestaurante\\Aplication\\Mappers\\OrderMapper.cs",
+              "RelativeToolTip": "Aplication\\Mappers\\OrderMapper.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADgv0AAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T18:51:07.738Z",
+              "WhenOpened": "2026-02-04T22:47:39.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\2026\\Practica Verano\\servicePrueba\\PracticaRestaurante\\Aplication\\UseCases\\OrderService.cs",
+              "RelativeDocumentMoniker": "Aplication\\UseCases\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\2026\\Practica Verano\\servicePrueba\\PracticaRestaurante\\Aplication\\UseCases\\OrderService.cs",
+              "RelativeToolTip": "Aplication\\UseCases\\OrderService.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAkwJMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T21:59:24.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\2026\\Practica Verano\\servicePrueba\\PracticaRestaurante\\PracticaRestaurante\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "PracticaRestaurante\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\2026\\Practica Verano\\servicePrueba\\PracticaRestaurante\\PracticaRestaurante\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "PracticaRestaurante\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwEsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T21:58:41.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DishConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\servicePrueba\\PracticaRestaurante\\Infraestructure\\Perssistence\\Configurations\\DishConfiguration.cs",
-              "RelativeDocumentMoniker": "Infraestructure\\Perssistence\\Configurations\\DishConfiguration.cs",
-              "ToolTip": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\servicePrueba\\PracticaRestaurante\\Infraestructure\\Perssistence\\Configurations\\DishConfiguration.cs",
-              "RelativeToolTip": "Infraestructure\\Perssistence\\Configurations\\DishConfiguration.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwCwAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "DishService.cs",
+              "DocumentMoniker": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\2026\\Practica Verano\\servicePrueba\\PracticaRestaurante\\Aplication\\UseCases\\DishService.cs",
+              "RelativeDocumentMoniker": "Aplication\\UseCases\\DishService.cs",
+              "ToolTip": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\2026\\Practica Verano\\servicePrueba\\PracticaRestaurante\\Aplication\\UseCases\\DishService.cs",
+              "RelativeToolTip": "Aplication\\UseCases\\DishService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAMwE4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T18:50:40.994Z"
+              "WhenOpened": "2026-02-02T19:32:05.699Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "DishController.cs",
-              "DocumentMoniker": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\servicePrueba\\PracticaRestaurante\\PracticaRestaurante\\Controllers\\DishController.cs",
+              "DocumentMoniker": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\2026\\Practica Verano\\servicePrueba\\PracticaRestaurante\\PracticaRestaurante\\Controllers\\DishController.cs",
               "RelativeDocumentMoniker": "PracticaRestaurante\\Controllers\\DishController.cs",
-              "ToolTip": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\servicePrueba\\PracticaRestaurante\\PracticaRestaurante\\Controllers\\DishController.cs",
+              "ToolTip": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\2026\\Practica Verano\\servicePrueba\\PracticaRestaurante\\PracticaRestaurante\\Controllers\\DishController.cs",
               "RelativeToolTip": "PracticaRestaurante\\Controllers\\DishController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwCAAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAzwB0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T18:20:28.974Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DishService.cs",
-              "DocumentMoniker": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\servicePrueba\\PracticaRestaurante\\Aplication\\UseCases\\DishService.cs",
-              "RelativeDocumentMoniker": "Aplication\\UseCases\\DishService.cs",
-              "ToolTip": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\servicePrueba\\PracticaRestaurante\\Aplication\\UseCases\\DishService.cs",
-              "RelativeToolTip": "Aplication\\UseCases\\DishService.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAewE8AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T17:52:37.437Z"
+              "WhenOpened": "2026-02-02T19:26:06.602Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\2026\\Practica Verano\\servicePrueba\\PracticaRestaurante\\PracticaRestaurante\\appsettings.json",
+              "RelativeDocumentMoniker": "PracticaRestaurante\\appsettings.json",
+              "ToolTip": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\2026\\Practica Verano\\servicePrueba\\PracticaRestaurante\\PracticaRestaurante\\appsettings.json",
+              "RelativeToolTip": "PracticaRestaurante\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-10T21:47:51.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderItemConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\2026\\Practica Verano\\servicePrueba\\PracticaRestaurante\\Infraestructure\\Perssistence\\Configurations\\OrderItemConfiguration.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Perssistence\\Configurations\\OrderItemConfiguration.cs",
+              "ToolTip": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\2026\\Practica Verano\\servicePrueba\\PracticaRestaurante\\Infraestructure\\Perssistence\\Configurations\\OrderItemConfiguration.cs",
+              "RelativeToolTip": "Infraestructure\\Perssistence\\Configurations\\OrderItemConfiguration.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T21:39:25.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeliveryTypeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\2026\\Practica Verano\\servicePrueba\\PracticaRestaurante\\Infraestructure\\Perssistence\\Configurations\\DeliveryTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Perssistence\\Configurations\\DeliveryTypeConfiguration.cs",
+              "ToolTip": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\2026\\Practica Verano\\servicePrueba\\PracticaRestaurante\\Infraestructure\\Perssistence\\Configurations\\DeliveryTypeConfiguration.cs",
+              "RelativeToolTip": "Infraestructure\\Perssistence\\Configurations\\DeliveryTypeConfiguration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T21:19:08.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\2026\\Practica Verano\\servicePrueba\\PracticaRestaurante\\Infraestructure\\Perssistence\\Configurations\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Perssistence\\Configurations\\OrderConfiguration.cs",
+              "ToolTip": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\2026\\Practica Verano\\servicePrueba\\PracticaRestaurante\\Infraestructure\\Perssistence\\Configurations\\OrderConfiguration.cs",
+              "RelativeToolTip": "Infraestructure\\Perssistence\\Configurations\\OrderConfiguration.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T21:55:00.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\servicePrueba\\PracticaRestaurante\\PracticaRestaurante\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\2026\\Practica Verano\\servicePrueba\\PracticaRestaurante\\PracticaRestaurante\\Program.cs",
               "RelativeDocumentMoniker": "PracticaRestaurante\\Program.cs",
-              "ToolTip": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\servicePrueba\\PracticaRestaurante\\PracticaRestaurante\\Program.cs",
+              "ToolTip": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\2026\\Practica Verano\\servicePrueba\\PracticaRestaurante\\PracticaRestaurante\\Program.cs",
               "RelativeToolTip": "PracticaRestaurante\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAACAAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAArwCIAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-28T23:22:59.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\2026\\Practica Verano\\servicePrueba\\PracticaRestaurante\\Infraestructure\\Perssistence\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Perssistence\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\2026\\Practica Verano\\servicePrueba\\PracticaRestaurante\\Infraestructure\\Perssistence\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "Infraestructure\\Perssistence\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T00:50:56.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\2026\\Practica Verano\\servicePrueba\\PracticaRestaurante\\Infraestructure\\Perssistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Perssistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\2026\\Practica Verano\\servicePrueba\\PracticaRestaurante\\Infraestructure\\Perssistence\\AppDbContext.cs",
+              "RelativeToolTip": "Infraestructure\\Perssistence\\AppDbContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwBQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T21:47:54.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\2026\\Practica Verano\\servicePrueba\\PracticaRestaurante\\PracticaRestaurante\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PracticaRestaurante\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Aleja\\Desktop\\Carpetas\\trabajos practicos(unaj)\\Proyecto Software\\2026\\Practica Verano\\servicePrueba\\PracticaRestaurante\\PracticaRestaurante\\appsettings.Development.json",
+              "RelativeToolTip": "PracticaRestaurante\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-10T21:47:59.392Z"
             }
           ]
         }
